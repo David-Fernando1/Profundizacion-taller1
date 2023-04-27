@@ -1,0 +1,10 @@
+server:
+  servlet:
+    context-path: /poli/taller/api/v1
+  port: 9080
+spring:
+  application:
+    name: taller1
+  profiles:
+    active: dev
+
